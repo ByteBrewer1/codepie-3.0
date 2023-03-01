@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@500;800&display=swap');
+body,html{
+  height: 100%;
+}
+.App {
+  text-align: center;
+}
+.Container{
+  
+  text-align: center;
+}
+body{
+  background:rgb(62, 0, 161);
+  background-attachment: fixed;
+}
